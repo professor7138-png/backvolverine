@@ -31,7 +31,9 @@ app.use(cors({
     'http://localhost:3000', 
     'http://192.168.18.118:5173',
     'https://wolverine-house.netlify.app',
-    'http://wolverine-house.netlify.app'
+    'http://wolverine-house.netlify.app',
+    'https://backvolverine.vercel.app'
+
   ],
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE', 'PATCH', 'OPTIONS'],
