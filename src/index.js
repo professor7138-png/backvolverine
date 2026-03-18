@@ -65,11 +65,8 @@ const io = new Server(server, {
       'http://localhost:3000',
       'https://wolverine-house.netlify.app',
       'http://wolverine-house.netlify.app',
-      "https://wolverinehoouse.vercel.app",
       "https://backvolverine.vercel.app",
-      "https://wolverineeeeehouse.vercel.app",
-      "https://frontwolverine-2y6za0m6v-professors-projects-7d2a17ff.vercel.app",
-      "https://frontwolverine-git-main-professors-projects-7d2a17ff.vercel.app"
+      "https://wolverinehoouse.vercel.app",
     ],
     methods: ['GET', 'POST'],
     allowedHeaders: ['Content-Type', 'Authorization'],
